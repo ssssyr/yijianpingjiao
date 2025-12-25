@@ -5,12 +5,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-
-# 用户名密码（调试用）
-#usrname = '25113070110'
-#password = 'fDu063836'
-
-# 如果需要交互式输入，可以取消下面的注释
 print("请输入uis用户名")
 usrname = input()
 print("请输入uis密码")
