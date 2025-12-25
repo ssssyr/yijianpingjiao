@@ -64,23 +64,6 @@ python work.py
 
 4. 脚本会自动完成所有评教任务
 
-### 修改用户名密码（可选）
-
-如果不想每次输入用户名密码，可以修改 `work.py` 文件：
-
-找到第 9-17 行，将注释取消：
-
-```python
-# 用户名密码（调试用）
-usrname = ''
-password = ''
-
-# 如果需要交互式输入，可以取消下面的注释
-# print("请输入uis用户名")
-# usrname = input()
-# print("请输入uis密码")
-# password = input()
-```
 
 ## 执行流程
 
