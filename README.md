@@ -51,7 +51,7 @@ pip install selenium
 1. 打开终端/命令行，进入项目目录：
 
 ```bash
-cd /Users/syr/Downloads/fudanpingjiao
+cd /your-project
 ```
 
 2. 运行脚本：
@@ -72,8 +72,8 @@ python work.py
 
 ```python
 # 用户名密码（调试用）
-usrname = '25113070110'
-password = 'fDu063836'
+usrname = ''
+password = ''
 
 # 如果需要交互式输入，可以取消下面的注释
 # print("请输入uis用户名")
